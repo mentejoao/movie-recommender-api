@@ -50,3 +50,6 @@ A API possui dois principais casos de uso:
   "top_k": 10
 }
 ```
+## Diagrama de Sequência
+##### Segundo caso de uso
+![image](https://github.com/user-attachments/assets/408a19de-8f43-405d-a6f1-59e1dd52be28)
